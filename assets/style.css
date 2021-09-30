@@ -26,7 +26,7 @@ body {
 
 /* -- Main -- */
 .main {
-    margin-bottom: 1rem;
+    margin-bottom: .2rem;
 }
 @media screen and (min-width: 768px){
 	.main {
@@ -51,13 +51,13 @@ body {
 	}
 }
 .title {
-    color: var(--second-clr-alt);
-	font-size: 2rem;
+    color: var(--second-clr);
+	font-size: 1.8rem;
     font-weight: 600;
 	max-width: 15rem;
 }
 .app-function-container {
-	margin: 1rem 0;
+	margin-top: .5rem;
 }
 @media screen and (min-width: 1024px){
 	.title {
@@ -83,7 +83,7 @@ body {
 	display: flex;
 	align-items: center;
 	justify-content: flex-start;
-	margin-top: 1.3rem;
+	margin-top: .5rem;
 }
 @media screen and (min-width: 768px){
 	.day-left-to-hide-desktop {
@@ -91,7 +91,7 @@ body {
 	}
 }
 .day-left-to-hide-desktop .day {
-	font-size: 5rem;
+	font-size: 4rem;
 }
 .day-left-to-hide-desktop .day::after {
 	content: "Days left";
@@ -102,7 +102,7 @@ body {
 }
 
 .svg-img {
-	width: 350px;
+	width: 300px;
 	height: auto;
 }
 @media screen and (min-width: 1024px){
@@ -115,7 +115,7 @@ body {
 	margin-left: .8rem;
 	display: flex;
 	align-items: center;
-	margin-top: 1.2rem;
+	margin-top: .8rem;
 }
 .counter-container {
 	display: flex;
