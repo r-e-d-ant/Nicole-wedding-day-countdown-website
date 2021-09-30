@@ -1,7 +1,7 @@
 # Nicole-wedding-day-countdown-website
 
 A Wedding day countdown for my Friend.
-* demo link: https://agitated-wright-a8b7e7.netlify.app
+* demo link: hhttps://boring-boyd-9d7dfa.netlify.app
 
 He will be able to see left:<br>
   1. weeks
